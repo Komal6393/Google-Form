@@ -1,0 +1,65 @@
+.card{
+    height: 700px;
+    width: 70%;
+    border: 2px solid black;
+    margin-left: 150px;
+    display: flex;
+}
+.profile-photo{
+    height:700px;
+    width: 30%;
+   
+}
+#name{
+    margin-top: 60px;
+    margin-left: 61px;
+}
+.container{
+    height: 200px;
+    width: 200px;
+    /* border:2px solid yellow; */
+    margin-left: 61px;
+    background-image: url(profile.webp);
+    background-size: cover;
+   
+}
+#name2{
+    /* margin-left:61px; */
+    margin-top: 6px;
+    text-align: center;
+    margin-right: 12px;
+}
+.file{
+    margin-left:40px;
+}
+.detail{
+    height:700px;
+    width: 70%;
+    margin-top: 50px;
+    margin-left:45px;
+    
+}
+.first-name{
+    margin-top: 30px;
+    font-size: 25px;
+}
+.input{
+    height: 23px;
+    width:558px;
+    border:1px solid black;
+    border-radius: 3px;
+}
+
+.button{
+    margin-top: 15px;
+}
+#save{
+    height:30px;
+    width: 235px;
+    background-color: darkgreen;
+}
+#reset{
+    height:30px;
+ 
+    background-color: blue;
+}
